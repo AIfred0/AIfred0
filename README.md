@@ -5,6 +5,8 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIfred0&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIfred0&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIfred0&theme=2077)
+
 
 </div>
 
