@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Bodya<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, russian hacker 😈</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIfred0&theme=2077&exclude=exclude)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIfred0&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIfred0t&theme=2077)
 
 
 <!--
