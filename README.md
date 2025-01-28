@@ -2,8 +2,10 @@
 <h3 align="center">Computer science student, russian hacker 😈</h3>
 
 <div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIfred0&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIfred0&theme=2077)
+
 </div>
 
 <!--
